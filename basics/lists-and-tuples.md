@@ -301,7 +301,7 @@ post about this](http://nedbatchelder.com/blog/201608/lists_vs_tuples.html).
     item from them.
 - `thing = another_thing` does not create a copy of `another_thing`.
 - Tuples are like lists, but they can't be changed in-place. They're
-    also used in different places.
+    also used in different places. We can concule by saying that Lists are mutable and Tuples are not.
 
 ## Examples
 
